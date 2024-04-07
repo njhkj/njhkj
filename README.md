@@ -12,7 +12,21 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 </p>
 <p align="center"><a href="https://t.me/your_name_143"><img src="https://graph.org/file/aeb583ea1a6e6bfa729a5.jpg" width="400"></a></p>
+<p>
+<a href="https://instagram.com/@simp.licityyour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@simp.licityyour" height="30" width="40" /></a>
+</p>
+  <summary>📈 More Stats</summary>
+  <br>
+#life is look like a game....
+<!--SNAKE-->
 
+
+
+<p align="center">
+<a href="https://github.com/walidbosso">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+</p>
 
 # Some Projects
 
